@@ -1,0 +1,1 @@
+滲透測試  **IDOR (Insecure Direct Object Reference，不安全的直接對象引用)** 
