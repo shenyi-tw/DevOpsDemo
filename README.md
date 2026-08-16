@@ -16,6 +16,18 @@
 
 ![Observability 9](img/9.png)
 
+## On-Premises-k8s 展示
+
+展示基於 On-Premises（地端） 的 RKE2 Kubernetes 高可用（HA）集群 與 負載均衡架構設計與驗證紀錄。
+
+[On-Premises-k8s](On-Premises-k8s/README.md)
+
+# OAuth2 Login
+
+介紹目前系統同時支援兩種登入模式：
+
+[OAuth2](OAuth2/README.md)
+
 ## ecpay 付款功能
 
 ecpay 付款功能已完整部署至 GCP 雲端平台，並透過 Cloudflare 進行 DNS 解析與網路管理。
@@ -25,5 +37,7 @@ ecpay 付款功能已完整部署至 GCP 雲端平台，並透過 Cloudflare 進
 ![bg](img/bg.png)
 
 ## Security
+
+以下連結說明資訊安全與系統強化上的實踐成果。透過多項業界標準的資安測試與掃描工具，全面檢驗並證明系統在網路傳輸、應用程式邏輯、容器架構與弱點防禦上具備高標準的安全性：
 
 [Security](./Security.md)
