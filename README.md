@@ -16,6 +16,14 @@
 
 ![Observability 9](img/9.png)
 
+## Trace to Log & Trace to profiles
+
+![Observability 10](img/10.png)
+
+## Exemplar to Trace
+
+![Observability 11](img/11.png)
+
 ## On-Premises-k8s 展示
 
 展示基於 On-Premises（地端） 的 RKE2 Kubernetes 高可用（HA）集群 與 負載均衡架構設計與驗證紀錄。
