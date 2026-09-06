@@ -4,7 +4,7 @@
     1. OAuth2 login
     2. Firebase Cloud Messaging
     3. GCP Pub/Sub
-    4. ecpay invoce
+    4. ecpay invoice
     5. [影片demo](https://youtu.be/37fLkmcH-qk)
 
 - Trace 展示
@@ -12,7 +12,7 @@
     2. istio-ingressgateway
     3. 後端邏輯
     4. GCP Pub/Sub
-    5. 呼叫 ecpay invoce
+    5. 呼叫 ecpay invoice
 
 ![Observability 9](img/9.png)
 
@@ -23,6 +23,12 @@
 ## Exemplar to Trace
 
 ![Observability 11](img/11.png)
+
+## k8s operator Multi-tenancy 展示
+
+本篇展示使用 k8s operator 部署 Multi-tenancy
+
+[Multi-tenancy](Multi-tenancy/README.md)
 
 ## On-Premises-k8s 展示
 
